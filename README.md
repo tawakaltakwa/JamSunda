@@ -15,14 +15,24 @@ bisa dipake di waybar
 
 ## penggunaan
 jamsunda.sh defaultna nampilkeun jam jeung ngaran jam bisa di coba di terminal 
+```
 bash jamsunda.sh
+```
 format 12 jam
+```
 bash jamsunda.sh -f 12
+```
 nampilkeun poe
+```
 bash jamsunda.sh -p
+```
 nampilkeun tanggal
+```
 bash jamsunda.sh -t
-campukeun sadayana
+```
+bisa dicampurkeun sadayana
+```
 bash jamsunda.sh -t -p -f 12
+```
 
 jamsunda_info.sh nampilkeun harti ti ngaran poe dina notifikasi butuh sajenis aplikasi `mako`
