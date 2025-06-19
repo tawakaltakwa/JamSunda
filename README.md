@@ -36,3 +36,6 @@ bash jamsunda.sh -t -p -f 12
 ```
 
 jamsunda_info.sh nampilkeun harti ti ngaran poe dina notifikasi butuh sajenis aplikasi `mako`
+
+## referensi istilah
+https://www.goodnewsfromindonesia.id/2020/06/12/tak-pakai-angka-ini-cara-orang-sunda-menyebut-waktu-sehari-semalam
