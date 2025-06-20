@@ -53,7 +53,7 @@ istilah Bayeungyang
 [Darso - Kembang Cinta](https://www.youtube.com/watch?v=kLYSby8U6Bo)<br/><br/>
 istilah Balebat
 >
->duh Balebat... geuning geus katembong caang
+>tuh Balebat... geuning geus katembong caang
 >
 [Darso - Balebat](https://www.youtube.com/watch?v=F9mksOPjYB4)<br/><br/>
 istilah Kongkorongok Hayam
