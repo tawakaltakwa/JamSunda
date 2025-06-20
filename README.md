@@ -12,6 +12,8 @@ bisa dipake di waybar
         "on-click" : "bash ~/.config/waybar/jamsunda_info.sh"
 }
 ```
+screenshot
+![](/Screenshot1.png)
 
 ## penggunaan
 jamsunda.sh defaultna nampilkeun jam jeung ngaran jam bisa di coba di terminal 
