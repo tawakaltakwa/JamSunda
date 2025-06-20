@@ -44,3 +44,14 @@ Kuring oge budak jaman ayeuna teu apal detil, nanya kolot jeung tatangga oge nga
 [ref1](https://www.facebook.com/aksarasastradanbudayasunda/posts/waktu-menurut-ki-sundawaktu-dalam-bahasa-sunda-disebut-dengan-kata-wanci-dan-man/303297150182867/)<br/>
 [ref2](https://www.goodnewsfromindonesia.id/2020/06/12/tak-pakai-angka-ini-cara-orang-sunda-menyebut-waktu-sehari-semalam)<br/>
 [ref3](https://www.sukabumiupdate.com/life/126191/24-istilah-waktu-dalam-bahasa-sunda-wanci-sariak-layung)
+
+## hiburan
+istilah Bayeungyang
+>mencrangna panas Bayeungyang
+[Darso - Kembang Cinta](https://www.youtube.com/watch?v=kLYSby8U6Bo)<br/>
+istilah Balebat
+>duh Balebat... geuning geus katembong caang
+[Darso - Balebat](https://www.youtube.com/watch?v=F9mksOPjYB4)<br/>
+istilah Kongkorongok Hayam
+>hayam jalu geus kongkorongok, panon poe tereh bijil
+[Doel Sumbang - Ema](https://www.youtube.com/watch?v=GHqfS_4RGyg)
