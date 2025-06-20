@@ -1,5 +1,5 @@
 # JamSunda
-Ngaran jam dina basa sunda
+Ngaran jam dina basa sunda, sok aya geuningan istilah kolot nyebut janari, tangange tawa, sajenis nu kararitu.
 
 bisa dipake di waybar
 ```
