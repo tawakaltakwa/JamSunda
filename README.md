@@ -12,7 +12,7 @@ bisa dipake di waybar, contoh di waybar config (.config/waybar/config)
         "on-click" : "bash ~/.config/waybar/jamsunda_info.sh"
 }
 ```
-screenshot:<br/>
+screenshot waybar jeung mun di klik bijil notifikasi:<br/>
 ![](/Screenshot1.png)
 
 ## penggunaan
