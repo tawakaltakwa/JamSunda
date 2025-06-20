@@ -40,7 +40,7 @@ bash jamsunda.sh -t -p -f 12
 jamsunda_info.sh nampilkeun harti ti ngaran poe dina notifikasi butuh sajenis aplikasi `mako`
 
 ## referensi istilah
-kuring oge budak jaman ayeuna teu apal detil, nanya kolot jeung tatangga oge ngan aya sautik, ieu nu manggih tina internet ref1 jeunh ref2 sajenis, ref3 rada beda. Asana emang wajar urang sundana oge beda-beda daerah, sok aya beda saeutik. kuring mah leuwih sering ngadenge ti ref1/ref2 jadi we nulis scriptna berdasar ref1/ref2. bilih aya nu sok leuwih sering ngadenge istilah ti ref3 manga edit we nyalira.<br/>
+Kuring oge budak jaman ayeuna teu apal detil, nanya kolot jeung tatangga oge ngan aya sa'eutik istilah, ieu nu manggih tina internet ref1 jeunh ref2 sajenis, ref3 rada beda. Asana emang wajar urang sundana oge beda-beda daerah, sok aya beda saeutik. kuring mah leuwih sering ngadenge ti ref1/ref2 jadi we nulis scriptna berdasar ref1/ref2. bilih aya nu sok leuwih sering ngadenge istilah ti ref3 manga edit we nyalira.<br/>
 [ref1](https://www.facebook.com/aksarasastradanbudayasunda/posts/waktu-menurut-ki-sundawaktu-dalam-bahasa-sunda-disebut-dengan-kata-wanci-dan-man/303297150182867/)<br/>
 [ref2](https://www.goodnewsfromindonesia.id/2020/06/12/tak-pakai-angka-ini-cara-orang-sunda-menyebut-waktu-sehari-semalam)<br/>
 [ref3](https://www.sukabumiupdate.com/life/126191/24-istilah-waktu-dalam-bahasa-sunda-wanci-sariak-layung)
