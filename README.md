@@ -12,7 +12,7 @@ bisa dipake di waybar
         "on-click" : "bash ~/.config/waybar/jamsunda_info.sh"
 }
 ```
-screenshot:\n
+screenshot:<br/>
 ![](/Screenshot1.png)
 
 ## penggunaan
