@@ -47,11 +47,17 @@ Kuring oge budak jaman ayeuna teu apal detil, nanya kolot jeung tatangga oge nga
 
 ## hiburan
 istilah Bayeungyang
+>
 >mencrangna panas Bayeungyang
+>
 [Darso - Kembang Cinta](https://www.youtube.com/watch?v=kLYSby8U6Bo)<br/>
 istilah Balebat
+>
 >duh Balebat... geuning geus katembong caang
+>
 [Darso - Balebat](https://www.youtube.com/watch?v=F9mksOPjYB4)<br/>
 istilah Kongkorongok Hayam
+>
 >hayam jalu geus kongkorongok, panon poe tereh bijil
+>
 [Doel Sumbang - Ema](https://www.youtube.com/watch?v=GHqfS_4RGyg)
