@@ -4,7 +4,7 @@ Ngaran jam dina basa sunda.
 
 ## referensi istilah
 
-- Kuring oge budak jaman ayeuna teu apal detil, nanya kolot jeung tatangga oge ngan aya sa'eutik istilah, ieu nu manggih tina internet ref1 jeunh ref2 sajenis, ref3 rada beda. Asana emang wajar urang sundana oge beda-beda daerah, sok aya beda saeutik. sok remen baheula ngadenge tangange, aya di ref1/ref2 tapi euweuh di ref3, kulantaran kuring leuwih sering ngadenge ti ref1/ref2 jadi we nulis script utamana berdasar ref1/ref2. <br/>
+Kuring oge budak jaman ayeuna teu apal detil, nanya kolot jeung tatangga oge ngan aya sa'eutik istilah, ieu nu manggih tina internet ref1 jeunh ref2 sajenis, ref3 rada beda. Asana emang wajar urang sundana oge beda-beda daerah, sok aya beda saeutik. sok remen baheula ngadenge tangange, aya di ref1/ref2 tapi euweuh di ref3, kulantaran kuring leuwih sering ngadenge ti ref1/ref2 jadi we nulis script utamana berdasar ref1/ref2. <br/>
 
 - [ref1](https://www.facebook.com/aksarasastradanbudayasunda/posts/waktu-menurut-ki-sundawaktu-dalam-bahasa-sunda-disebut-dengan-kata-wanci-dan-man/303297150182867/)  
 
@@ -30,7 +30,7 @@ bisa dipake di waybar, contoh di waybar config (.config/waybar/config)
 screenshot waybar jeung mun di klik bijil notifikasi:<br/>
 ![](/Screenshot1.png)
 
-jamsunda.sh defaultna nampilkeun jam jeung ngaran jam bisa di coba di terminal 
+[](/jamsunda.sh) defaultna nampilkeun jam jeung ngaran jam bisa di coba di terminal 
 
 ```
 bash jamsunda.sh
