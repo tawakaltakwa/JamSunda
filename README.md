@@ -30,7 +30,7 @@ bisa dipake di waybar, contoh di waybar config (.config/waybar/config)
 screenshot waybar jeung mun di klik bijil notifikasi:<br/>
 ![](/Screenshot1.png)
 
-[](/jamsunda.sh) defaultna nampilkeun jam jeung ngaran jam bisa di coba di terminal 
+[jamsunda.sh](/jamsunda.sh) defaultna nampilkeun jam jeung ngaran jam bisa di coba di terminal 
 
 ```
 bash jamsunda.sh
