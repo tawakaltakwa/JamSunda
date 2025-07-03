@@ -4,10 +4,13 @@ Ngaran jam dina basa sunda.
 
 ## referensi istilah
 
-Kuring oge budak jaman ayeuna teu apal detil, nanya kolot jeung tatangga oge ngan aya sa'eutik istilah, ieu nu manggih tina internet ref1 jeunh ref2 sajenis, ref3 rada beda. Asana emang wajar urang sundana oge beda-beda daerah, sok aya beda saeutik. sok remen baheula ngadenge tangange, aya di ref1/ref2 tapi euweuh di ref3, kulantaran kuring leuwih sering ngadenge ti ref1/ref2 jadi we nulis scriptna berdasar ref1/ref2.  
-[ref1](https://www.facebook.com/aksarasastradanbudayasunda/posts/waktu-menurut-ki-sundawaktu-dalam-bahasa-sunda-disebut-dengan-kata-wanci-dan-man/303297150182867/)  
-[ref2](https://www.goodnewsfromindonesia.id/2020/06/12/tak-pakai-angka-ini-cara-orang-sunda-menyebut-waktu-sehari-semalam)  
-[ref3](https://www.sukabumiupdate.com/life/126191/24-istilah-waktu-dalam-bahasa-sunda-wanci-sariak-layung)
+- Kuring oge budak jaman ayeuna teu apal detil, nanya kolot jeung tatangga oge ngan aya sa'eutik istilah, ieu nu manggih tina internet ref1 jeunh ref2 sajenis, ref3 rada beda. Asana emang wajar urang sundana oge beda-beda daerah, sok aya beda saeutik. sok remen baheula ngadenge tangange, aya di ref1/ref2 tapi euweuh di ref3, kulantaran kuring leuwih sering ngadenge ti ref1/ref2 jadi we nulis script utamana berdasar ref1/ref2. <br/>
+
+- [ref1](https://www.facebook.com/aksarasastradanbudayasunda/posts/waktu-menurut-ki-sundawaktu-dalam-bahasa-sunda-disebut-dengan-kata-wanci-dan-man/303297150182867/)  
+
+- [ref2](https://www.goodnewsfromindonesia.id/2020/06/12/tak-pakai-angka-ini-cara-orang-sunda-menyebut-waktu-sehari-semalam)  
+
+- [ref3](https://www.sukabumiupdate.com/life/126191/24-istilah-waktu-dalam-bahasa-sunda-wanci-sariak-layung)
 
 ## penggunaan
 
