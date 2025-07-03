@@ -66,11 +66,6 @@ bash jamsunda.sh -t -p -f 12
 
 ## hiburan
 
-istilah Bayeungyang
-
-> mencrangna panas Bayeungyang
-
-[Darso - Kembang Cinta](https://www.youtube.com/watch?v=kLYSby8U6Bo)<br/><br/>
 istilah Balebat
 
 > tuh Balebat... geuning geus katembong caang
