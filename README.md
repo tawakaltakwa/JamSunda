@@ -60,9 +60,9 @@ bisa dicampurkeun sadayana
 bash jamsunda.sh -t -p -f 12
 ```
 
-jamsunda_info.sh nampilkeun harti ti ngaran poe dina notifikasi, mun make windows manager biasana butuh sajenis aplikasi `mako`<br/>
+[jamsunda_info.sh](/jamsunda_info.sh) nampilkeun harti ti ngaran poe dina notifikasi, mun make windows manager biasana butuh sajenis aplikasi `mako`<br/>
 
-jamsunda2.sh jeung jamsunda_info2.sh, fungsi jeung gunana sami, pedang ngango istilah tina ref3.
+[jamsunda2.sh](/jamsunda2.sh) jeung [jamsunda_info2.sh](/jamsunda_info2.sh), fungsi jeung gunana sami, pedang ngango istilah tina ref3.
 
 ## hiburan
 
